@@ -15,7 +15,7 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 
 ---
-
+ 
 ### Output Pulse Broadening
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
 
